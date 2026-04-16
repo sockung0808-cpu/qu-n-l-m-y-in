@@ -1,0 +1,2 @@
+AppData/Local/Programs/cursor/*.exe filter=lfs diff=lfs merge=lfs -text
+AppData/Local/Programs/cursor/resources/**/*.exe filter=lfs diff=lfs merge=lfs -text
