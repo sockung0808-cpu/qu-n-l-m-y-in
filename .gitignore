@@ -1,0 +1,45 @@
+# OS / system
+NTUSER.DAT*
+ntuser.dat.LOG*
+ntuser.ini
+Desktop.ini
+Thumbs.db
+
+# User-profile folders (avoid tracking whole home directory content)
+.codex/
+.cursor/
+.vscode/
+.gitconfig
+.packettracer
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Library/
+Links/
+Music/
+OneDrive/
+Pictures/
+Projects/
+Saved Games/
+Searches/
+Videos/
+Cisco Packet Tracer 9.0.0/
+z05707L19/
+
+# Package artifacts
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env/secrets
+.env
+.env.*
+
+# Shell/editor local history
+.lesshst
+.node_repl_history
